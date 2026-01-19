@@ -4,9 +4,9 @@
 
 **DiaCBT: A Multi-Session Dialogue Corpus Guided by Cognitive Conceptualization Diagrams for CBT-Based Mental Healthcare**
 
-> **Authors:** [Your Name(s)] 
+> **Authors:** Yougen Zhou, Ningning Zhou, Qin Chen, Jie Zhou, Aimin Zhou, and Liang He. 
 >
-> **Paper:** [https://arxiv.org/pdf/2509.02999] (will be updated once accepted)
+> **Paper:** https://arxiv.org/pdf/2509.02999 (will be updated once accepted)
 
 #### 📊 Data Access
 
