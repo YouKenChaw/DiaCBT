@@ -8,7 +8,8 @@
 >
 > **Paper:** [https://arxiv.org/pdf/2509.02999] (will be updated once accepted)
 
-📊 Data Access
+#### 📊 Data Access
+
 Note: This is a sensitive mental health dataset. 
 
 Due to ethical and privacy considerations: The full dataset is not yet publicly released (we are finalizing anonymization and IRB approval). A small sample (10 dialogues) is provided in data/sample/ for demonstration.
