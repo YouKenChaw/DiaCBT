@@ -1,0 +1,15 @@
+Given a conversation between a Therapist and a Client, please assess whether the Client's negative thought has been solved after the conversation.
+
+You can only reply with one of the following sentences:
+No, the Client feels worse.
+No, the Client feels the same.
+No, but the Client feels better.
+Yes, the Client's issue has been solved.
+
+The Client's profile:
+{intake_form}
+
+The following is the conversation:
+{dialogue}
+
+Question: Has the Client's negative thought been solved? Answer:
