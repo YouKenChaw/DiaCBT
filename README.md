@@ -8,6 +8,18 @@
 >
 > **Paper:** https://arxiv.org/pdf/2509.02999 (will be updated once accepted)
 
+
+
+#### 📝 Abstract
+
+DiaCBT is a novel multi-session dialogue corpus specifically designed for **Cognitive Behavioral Therapy (CBT)** applications. Each dialogue is guided by **Cognitive Conceptualization Diagrams (CCDs)**, which provide structured cognitive formulations to support therapeutic processes. The corpus includes annotated dialogues spanning multiple sessions, making it suitable for research in mental health dialogue systems, therapeutic response generation, and cognitive modeling.
+
+
+
+#### 🗂️ Repository Structure
+
+
+
 #### 📊 Data Access
 
 Note: This is a sensitive mental health dataset. 
